@@ -5,4 +5,4 @@ This is a sample food recipes app for my User Experience students at KEA.
 HTML5 / CSS3
 
 # Author
-Arturo Mora-Rioja
+Oliver Jenbo
